@@ -1,12 +1,14 @@
 # Hockey Slam
 This repository contains the full source code and assets for the game Hockey Slam! Hockey Slam is a hockey shootout mobile game developed on Windows and released on Android.
 
-[![Gameplay gif](https://gfycat.com/testypointedemperorpenguin)]
+
+https://github.com/Mknsri/HockeySlam/assets/5314500/98e024d7-81dd-4393-84ea-398119330306
+
 
 ## More info:
 
-[Making of](https://hockeyslam.com/makingof).
-[Privacy policy (there's nothing there)](https://hockeyslam.com/privacy).
+- [Making of](https://hockeyslam.com/makingof)
+- [Privacy policy (there's nothing there)](https://hockeyslam.com/privacy)
 
 Apart from a few file loading libraries all the code inside this repository is handwritten. This includes the graphics engine, the memory allocator, physics engine and OpenGL API implementations for both Android and Windows.
 
