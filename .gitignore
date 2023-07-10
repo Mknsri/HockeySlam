@@ -1,0 +1,6 @@
+.vs/
+.vscode/
+*nativecodeanalysis.xml
+*.obj
+build/
+res/shaders/preprocessed
